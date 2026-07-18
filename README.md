@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parin Patel</h1>
 ### Cybersecurity Enthusiast | Computer Engineering Student | SAP Business Analyst | Python Developer
-
+---
 I am a Computer Engineering student with a strong passion for cybersecurity, secure software development, and enterprise technologies. I enjoy solving security challenges, developing automation tools, and continuously learning modern technologies to build secure and scalable systems.
 ---
 My interests include ethical hacking, penetration testing, network security, Security Operations Center (SOC) practices, threat intelligence, cloud security, and SAP technologies. I actively work on practical cybersecurity projects to strengthen my technical skills and gain real-world experience.
