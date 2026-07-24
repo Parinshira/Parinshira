@@ -138,15 +138,6 @@ My interests include ethical hacking, penetration testing, network security, Sec
 
 ---
 
-
-# 🌐 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/Parinshira">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <!-- Add your LinkedIn -->
 <!--
 <a href="https://linkedin.com/in/yourprofile">
@@ -154,12 +145,10 @@ My interests include ethical hacking, penetration testing, network security, Sec
 </a>
 -->
 
-<!-- Add your Portfolio -->
-<!--
-<a href="https://yourportfolio.com">
+
+<a href="https://parinshira.github.io/My-Portfolio/">
 🌐 Portfolio
 </a>
--->
 
 </p>
 
